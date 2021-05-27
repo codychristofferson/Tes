@@ -2,6 +2,8 @@
 
 ## Core PHP Questions
 
+The string used in this questioon is from the header of an actual cUrl request we make several times a day to retrieve a user token for us to interact with a third party API. In this exercise, we will see how you would extract the user key. One thing to note: The number after max-age= is dynamic, so you str_replace is not a valid option for solving this question.
+
 ### String Manipulation
 Take the following string:
 ```
