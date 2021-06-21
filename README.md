@@ -8,7 +8,7 @@ The string used in this exercise is from the header of an actual cUrl request we
 ### String Manipulation Part 1
 Take the following string:
 ```
-SetCookie:user=55555%3A507a7bb3578cea53068d7248ab787ef4%3A%3A00000000-0000-0000-0000-000000000000%3A00000000-0000-0000-0000-000000000000%3AStrict-Transport-Security: max-age=63072000
+API_REFERENCE_CODE:6330d8f60f9b618e778013100f5e7d3c122345user=55555%3A507a7bb3578cea53068d7248ab787ef4%3A%3A00000000-0000-0000-0000-000000000000%3A00000000-0000-0000-0000-000000000000%3ATracker-Key:93cbce10db1aa79e29b33aec476dd6baStrict-Transport-Security: max-age=63072000
 ```
 Using PHP, extract and echo the following section:
 ```
