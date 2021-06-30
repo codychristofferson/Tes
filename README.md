@@ -15,7 +15,11 @@ user=55555%3A507a7bb3578cea53068d7248ab787ef4
 
 Rules:
 You must use core PHP functions.
+Use proper memory management practices.
+Try to keep the number of lines of code to a minimum.
+You may use your preferred IDE, but the code must be executed from the online sandbox.
 If you know the PHP function you wish to use but do not remember the syntax, you are allowed to google that function. 
+
 
 ### String Manipulation Part 2
 Using the string that you extracted above, write a function that will strip out all of the non-numeric characters and then echo out the resulting string.
